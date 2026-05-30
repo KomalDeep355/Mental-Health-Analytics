@@ -186,8 +186,6 @@ Mental Health Prevalence
 Correlation Heatmap
 
 
-
-
 Additional Visualizations
 Sleep vs Mental Health
 Treatment Analysis
